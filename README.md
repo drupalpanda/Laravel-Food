@@ -59,11 +59,3 @@ Check out the 2 configuration files for the options, these are:
 
     src/config/config.php
     src/config/images.php
-
-## Administrator
-
-You can use the excellent Laravel Administrator package by FrozenNode to administer your blog.
-
-http://administrator.frozennode.com/docs/installation
-
-Several ready-to-use model config files for the models are provided in the src/config/administrator directory of the package, which you can copy into the app/config/administrator directory (or whatever you set as the model_config_path in the administrator config file).
